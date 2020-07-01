@@ -1,0 +1,414 @@
+Fri May 29 14:18:08 IST 2020:choice entered 1
+Fri May 29 14:18:08 IST 2020:.............Creating category................
+Fri May 29 14:18:52 IST 2020:choice entered 1
+Fri May 29 14:18:52 IST 2020:.............Creating category................
+Fri May 29 14:18:59 IST 2020:choice entered 1
+Fri May 29 14:18:59 IST 2020:...........Adding Task...........
+Fri May 29 14:19:40 IST 2020:adding task Name: megha Description :doing Tags :projectStart Date:Sat May 30 00:00:00 IST 2020End Date:Sun May 31 00:00:00 IST 2020 Priority :1 status :pending
+Fri May 29 14:19:40 IST 2020:Task Name: megha Description :doing Tags: project start date :Sat May 30 00:00:00 IST 2020 End date: Sun May 31 00:00:00 IST 2020 Status :1 Priority :1
+Fri May 29 15:25:25 IST 2020:choice entered 1
+Fri May 29 15:25:25 IST 2020:.............Creating Dictionary................
+Fri May 29 15:25:31 IST 2020:...........Adding Task...........
+Fri May 29 15:25:31 IST 2020:choice entered 1
+Fri May 29 16:37:42 IST 2020:.............Creating Dictionary................
+Fri May 29 16:37:42 IST 2020:choice entered 1
+Fri May 29 16:37:57 IST 2020:choice entered 1
+Fri May 29 16:37:57 IST 2020:...........Adding Task...........
+Fri May 29 16:38:42 IST 2020:adding task Name: new Meaning :doing Example :understandingStart Date:Sat May 30 00:00:00 IST 2020End Date:Sun May 31 00:00:00 IST 2020
+Fri May 29 16:38:42 IST 2020:Task Name: new Meaning :doing Example: understanding start date :Sat May 30 00:00:00 IST 2020 End date: Sun May 31 00:00:00 IST 2020
+Fri May 29 17:08:31 IST 2020:choice entered 1
+Fri May 29 17:08:31 IST 2020:.............Creating Dictionary................
+Fri May 29 17:08:37 IST 2020:...........Adding Task...........
+Fri May 29 17:08:37 IST 2020:choice entered 1
+Fri May 29 17:09:27 IST 2020:.............Creating Dictionary................
+Fri May 29 17:09:27 IST 2020:choice entered 1
+Fri May 29 17:09:32 IST 2020:choice entered 1
+Fri May 29 17:09:32 IST 2020:...........Adding Task...........
+Fri May 29 17:18:41 IST 2020:choice entered 1
+Fri May 29 17:18:41 IST 2020:.............Creating Dictionary................
+Fri May 29 17:18:51 IST 2020:choice entered 1
+Fri May 29 17:18:51 IST 2020:...........Adding Task...........
+Fri May 29 17:18:56 IST 2020:adding task Name: kjashd Meaning :sd Example :sdsd
+Fri May 29 17:18:56 IST 2020:Task Name: kjashd Meaning :sd Example: sdsd
+Fri May 29 17:18:58 IST 2020:...........Adding Task...........
+Fri May 29 17:18:58 IST 2020:choice entered 1
+Fri May 29 17:19:03 IST 2020:Task Name: kjsfas Meaning :jsag Example: jasd
+Fri May 29 17:19:03 IST 2020:adding task Name: kjsfas Meaning :jsag Example :jasd
+Fri May 29 17:20:07 IST 2020:choice entered 1
+Fri May 29 17:20:07 IST 2020:.............Creating Dictionary................
+Fri May 29 17:20:16 IST 2020:choice entered 1
+Fri May 29 17:20:16 IST 2020:...........Adding Task...........
+Fri May 29 17:20:38 IST 2020:adding task Name: meghana Meaning :moda Example :cloud
+Fri May 29 17:20:38 IST 2020:Task Name: meghana Meaning :moda Example: cloud
+Fri May 29 17:20:41 IST 2020:Choice selected in task menu edit....2
+Fri May 29 17:20:46 IST 2020:Choice entered in edit menu=2 edit individual info..
+Fri May 29 17:21:05 IST 2020:change Meaning
+Fri May 29 17:21:37 IST 2020:.............Creating Dictionary................
+Fri May 29 17:21:37 IST 2020:choice entered 1
+Fri May 29 17:21:59 IST 2020:...........Adding Task...........
+Fri May 29 17:21:59 IST 2020:choice entered 1
+Fri May 29 17:22:04 IST 2020:adding task Name: mafa Meaning :saf Example :asfdsfdsf
+Fri May 29 17:22:04 IST 2020:Task Name: mafa Meaning :saf Example: asfdsfdsf
+Fri May 29 17:22:25 IST 2020:choice entered 1
+Fri May 29 17:22:25 IST 2020:.............Creating Dictionary................
+Fri May 29 17:22:39 IST 2020:choice entered 1
+Fri May 29 17:22:39 IST 2020:...........Adding Task...........
+Fri May 29 17:22:44 IST 2020:adding task Name: jjsdf Meaning :hdsfs Example :dsfds
+Fri May 29 17:22:44 IST 2020:Task Name: jjsdf Meaning :hdsfs Example: dsfds
+Fri May 29 17:22:46 IST 2020:Choice selected in task menu edit....2
+Fri May 29 17:22:50 IST 2020:Choice entered in edit menu=2 edit individual info..
+Fri May 29 17:35:51 IST 2020:choice entered 1
+Fri May 29 17:35:51 IST 2020:.............Creating Dictionary................
+Fri May 29 17:35:59 IST 2020:...........Adding Task...........
+Fri May 29 17:35:59 IST 2020:choice entered 1
+Fri May 29 17:36:05 IST 2020:adding task Name: sf Meaning :dfgsdfa Example :ousfoids,dfgoisaf
+Fri May 29 17:36:05 IST 2020:Task Name: sf Meaning :dfgsdfa Example: ousfoids,dfgoisaf
+Fri May 29 17:36:09 IST 2020:Choice selected in task menu edit....2
+Fri May 29 17:36:14 IST 2020:Choice entered in edit menu=1 remove entire task
+Fri May 29 17:36:50 IST 2020:.............Creating Dictionary................
+Fri May 29 17:36:50 IST 2020:choice entered 1
+Fri May 29 17:37:02 IST 2020:choice entered 1
+Fri May 29 17:37:02 IST 2020:...........Adding Task...........
+Fri May 29 17:37:09 IST 2020:adding task Name: idshdsf Meaning :hcishdfds Example :xgcixc,ugfusf,hfshf
+Fri May 29 17:37:09 IST 2020:Task Name: idshdsf Meaning :hcishdfds Example: xgcixc,ugfusf,hfshf
+Fri May 29 17:37:12 IST 2020:Choice selected in task menu edit....2
+Fri May 29 17:37:14 IST 2020:Choice entered in edit menu=1 remove entire task
+Fri May 29 17:38:12 IST 2020:choice entered 1
+Fri May 29 17:38:17 IST 2020:choice entered 1
+Fri May 29 17:51:55 IST 2020:choice entered 1
+Fri May 29 17:51:55 IST 2020:.............Creating Dictionary................
+Fri May 29 17:52:11 IST 2020:choice entered 1
+Fri May 29 17:52:11 IST 2020:...........Adding Task...........
+Fri May 29 17:52:20 IST 2020:adding task Name: dgh Meaning :asd Example :sfd
+Fri May 29 17:52:20 IST 2020:Task Name: dgh Meaning :asd Example: sfd
+Fri May 29 17:52:22 IST 2020:Choice selected in task menu edit....2
+Fri May 29 17:52:25 IST 2020:Choice entered in edit menu=1 remove entire task
+Fri May 29 17:52:54 IST 2020:.............Creating Dictionary................
+Fri May 29 17:52:54 IST 2020:choice entered 1
+Fri May 29 17:53:00 IST 2020:...........Adding Task...........
+Fri May 29 17:53:00 IST 2020:choice entered 1
+Fri May 29 17:53:03 IST 2020:adding task Name: kdhfa Meaning :sdhf Example :kdf
+Fri May 29 17:53:03 IST 2020:Task Name: kdhfa Meaning :sdhf Example: kdf
+Fri May 29 18:02:40 IST 2020:.............Creating Dictionary................
+Fri May 29 18:02:40 IST 2020:choice entered 1
+Fri May 29 18:02:45 IST 2020:choice entered 1
+Fri May 29 18:02:45 IST 2020:...........Adding Task...........
+Fri May 29 18:02:50 IST 2020:adding task Name: lxkv Meaning :kdslvn Example :knjddj
+Fri May 29 18:02:50 IST 2020:Task Name: lxkv Meaning :kdslvn Example: knjddj
+Fri May 29 18:02:53 IST 2020:Choice selected in task menu edit....2
+Fri May 29 18:02:55 IST 2020:Choice entered in edit menu=1 remove entire task
+Fri May 29 18:03:15 IST 2020:Choice entered in edit menu=2 edit individual info..
+Fri May 29 18:05:01 IST 2020:choice entered 1
+Fri May 29 18:05:14 IST 2020:choice entered 1
+Fri May 29 18:05:25 IST 2020:choice entered 2
+Fri May 29 18:06:13 IST 2020:.............Creating Dictionary................
+Fri May 29 18:06:13 IST 2020:choice entered 1
+Fri May 29 18:06:19 IST 2020:...........Adding Task...........
+Fri May 29 18:06:19 IST 2020:choice entered 1
+Fri May 29 18:06:24 IST 2020:Task Name: ghjjhdd Meaning :dhj Example: jhj
+Fri May 29 18:06:24 IST 2020:adding task Name: ghjjhdd Meaning :dhj Example :jhj
+Fri May 29 18:06:29 IST 2020:Choice selected in task menu edit....2
+Fri May 29 18:06:37 IST 2020:Choice entered in edit menu=1 remove entire task
+Fri May 29 18:13:48 IST 2020:choice entered 1
+Fri May 29 18:13:48 IST 2020:.............Creating Dictionary................
+Fri May 29 18:13:54 IST 2020:Choice selected in task menu edit....2
+Fri May 29 18:13:58 IST 2020:Choice entered in edit menu=1 remove entire task
+Fri May 29 18:14:23 IST 2020:choice entered 1
+Fri May 29 18:15:52 IST 2020:.............Creating Dictionary................
+Fri May 29 18:15:52 IST 2020:choice entered 1
+Fri May 29 18:15:53 IST 2020:choice entered 1
+Fri May 29 18:15:53 IST 2020:...........Adding Task...........
+Fri May 29 18:15:57 IST 2020:adding task Name: fha Meaning :dfk Example :sdfsa
+Fri May 29 18:15:57 IST 2020:Task Name: fha Meaning :dfk Example: sdfsa
+Fri May 29 19:22:21 IST 2020:choice entered 1
+Fri May 29 19:22:21 IST 2020:.............Creating Dictionary................
+Fri May 29 19:22:26 IST 2020:...........Adding Task...........
+Fri May 29 19:22:26 IST 2020:choice entered 1
+Fri May 29 19:22:36 IST 2020:adding task Name: kdf Meaning :ksdjf Example :kdf,jdf,gff,kdhgak
+Fri May 29 19:22:36 IST 2020:Task Name: kdf Meaning :ksdjf Example: kdf,jdf,gff,kdhgak
+Fri May 29 19:22:38 IST 2020:Choice selected in task menu edit....2
+Fri May 29 19:22:43 IST 2020:Choice entered in edit menu=2 edit individual info..
+Fri May 29 19:23:17 IST 2020:change Meaning
+Fri May 29 19:24:10 IST 2020:.............Creating Dictionary................
+Fri May 29 19:24:10 IST 2020:choice entered 1
+Fri May 29 19:24:22 IST 2020:choice entered 1
+Fri May 29 19:27:57 IST 2020:.............Creating Dictionary................
+Fri May 29 19:27:57 IST 2020:choice entered 1
+Fri May 29 19:28:00 IST 2020:...........Adding Task...........
+Fri May 29 19:28:00 IST 2020:choice entered 1
+Fri May 29 19:28:11 IST 2020:adding task Name: ks Meaning :ks Example :ks,km
+Fri May 29 19:28:11 IST 2020:Task Name: ks Meaning :ks Example: ks,km
+Fri May 29 19:28:14 IST 2020:Choice selected in task menu edit....2
+Fri May 29 19:28:17 IST 2020:Choice entered in edit menu=1 remove entire task
+Fri May 29 19:28:31 IST 2020:.............Creating Dictionary................
+Fri May 29 19:28:31 IST 2020:choice entered 1
+Fri May 29 19:28:36 IST 2020:choice entered 1
+Fri May 29 19:28:36 IST 2020:...........Adding Task...........
+Fri May 29 19:28:41 IST 2020:adding task Name: mm Meaning :mm Example :mm
+Fri May 29 19:28:41 IST 2020:Task Name: mm Meaning :mm Example: mm
+Fri May 29 19:28:47 IST 2020:Choice selected in task menu edit....2
+Fri May 29 19:28:53 IST 2020:Choice entered in edit menu=2 edit individual info..
+Fri May 29 19:29:29 IST 2020:.............Creating Dictionary................
+Fri May 29 19:29:29 IST 2020:choice entered 1
+Fri May 29 19:29:37 IST 2020:choice entered 1
+Fri May 29 19:29:37 IST 2020:...........Adding Task...........
+Fri May 29 19:29:42 IST 2020:adding task Name: mn Meaning :mn Example :mn
+Fri May 29 19:29:42 IST 2020:Task Name: mn Meaning :mn Example: mn
+Fri May 29 19:29:53 IST 2020:.............Creating Dictionary................
+Fri May 29 19:29:53 IST 2020:choice entered 1
+Fri May 29 19:29:57 IST 2020:...........Adding Task...........
+Fri May 29 19:29:57 IST 2020:choice entered 1
+Fri May 29 19:30:06 IST 2020:Task Name: mnn Meaning :mnn Example: mnn
+Fri May 29 19:30:06 IST 2020:adding task Name: mnn Meaning :mnn Example :mnn
+Fri May 29 19:30:31 IST 2020:choice entered 1
+Fri May 29 19:30:31 IST 2020:.............Creating Dictionary................
+Fri May 29 19:30:53 IST 2020:Choice selected in task menu edit....2
+Fri May 29 19:31:01 IST 2020:Choice entered in edit menu=1 remove entire task
+Fri May 29 19:31:10 IST 2020:Choice entered in edit menu=2 edit individual info..
+Fri May 29 19:31:20 IST 2020:change Meaning
+Fri May 29 19:32:05 IST 2020:choice entered 2
+Fri May 29 19:32:09 IST 2020:choice entered 3
+Fri May 29 19:32:12 IST 2020:choice entered 4
+Fri May 29 19:32:24 IST 2020:choice entered 2
+Fri May 29 19:32:24 IST 2020:.............Creating category................
+Fri May 29 19:45:29 IST 2020:.............Creating Dictionary................
+Fri May 29 19:45:29 IST 2020:choice entered 1
+Fri May 29 19:45:33 IST 2020:...........Adding word...........
+Fri May 29 19:45:33 IST 2020:choice entered 1
+Fri May 29 19:45:45 IST 2020:adding task Name: lksda Meaning :sugd Example :isdg
+Fri May 29 19:45:45 IST 2020:Task Name: lksda Meaning :sugd Example: isdg
+Fri May 29 19:45:52 IST 2020:Choice selected in Dictionary menu edit....2
+Fri May 29 19:45:55 IST 2020:Choice entered in edit menu=1 remove entire word
+Fri May 29 19:49:11 IST 2020:choice entered 1
+Fri May 29 19:49:11 IST 2020:.............Creating Dictionary................
+Fri May 29 19:49:21 IST 2020:choice entered 1
+Fri May 29 19:49:21 IST 2020:...........Adding word...........
+Fri May 29 19:49:24 IST 2020:Task Name: s Meaning :s Example: s
+Fri May 29 19:49:24 IST 2020:adding task Name: s Meaning :s Example :s
+Fri May 29 19:49:31 IST 2020:Choice selected in Dictionary menu edit....2
+Fri May 29 19:50:03 IST 2020:Choice entered in edit menu=1 remove entire word
+Fri May 29 19:51:47 IST 2020:choice entered 1
+Fri May 29 19:51:47 IST 2020:.............Creating Dictionary................
+Fri May 29 19:51:53 IST 2020:...........Adding word...........
+Fri May 29 19:51:53 IST 2020:choice entered 1
+Fri May 29 19:51:59 IST 2020:adding task Name: gh Meaning :gh Example :gh
+Fri May 29 19:51:59 IST 2020:Task Name: gh Meaning :gh Example: gh
+Fri May 29 19:52:05 IST 2020:Choice selected in Dictionary menu edit....2
+Fri May 29 19:52:08 IST 2020:Choice entered in edit menu=1 remove entire word
+Fri May 29 19:52:22 IST 2020:Choice entered in edit menu=2 edit individual info..
+Fri May 29 19:52:30 IST 2020:change Meaning
+Fri May 29 19:53:23 IST 2020:choice entered 1
+Fri May 29 19:57:29 IST 2020:choice entered 1
+Fri May 29 19:57:29 IST 2020:.............Creating Dictionary................
+Fri May 29 19:57:36 IST 2020:...........Adding word...........
+Fri May 29 19:57:36 IST 2020:choice entered 1
+Fri May 29 19:57:41 IST 2020:adding task Name: hj Meaning :hj Example :hj
+Fri May 29 19:57:41 IST 2020:Task Name: hj Meaning :hj Example: hj
+Fri May 29 19:57:43 IST 2020:Choice selected in Dictionary menu edit....2
+Fri May 29 19:57:45 IST 2020:Choice entered in edit menu=1 remove entire word
+Fri May 29 19:57:56 IST 2020:Choice entered in edit menu=2 edit individual info..
+Fri May 29 19:58:02 IST 2020:change Meaning
+Fri May 29 19:59:43 IST 2020:choice entered 1
+Fri May 29 20:01:02 IST 2020:choice entered 1
+Fri May 29 20:01:02 IST 2020:.............Creating Dictionary................
+Fri May 29 20:01:07 IST 2020:choice entered 1
+Fri May 29 20:01:07 IST 2020:...........Adding word...........
+Mon Jun 01 12:33:18 IST 2020:choice entered 1
+Mon Jun 01 12:33:18 IST 2020:.............Creating Dictionary................
+Mon Jun 01 12:33:39 IST 2020:choice entered 1
+Mon Jun 01 12:33:39 IST 2020:...........Adding word...........
+Mon Jun 01 12:34:00 IST 2020:adding task Name: archana Meaning :luck Example :bumper
+Mon Jun 01 12:34:00 IST 2020:Task Name: archana Meaning :luck Example: bumper
+Mon Jun 01 12:34:03 IST 2020:Choice selected in Dictionary menu edit....2
+Mon Jun 01 12:34:04 IST 2020:Choice entered in edit menu=1 remove entire word
+Mon Jun 01 12:34:31 IST 2020:choice entered 1
+Mon Jun 01 12:34:31 IST 2020:.............Creating Dictionary................
+Mon Jun 01 12:34:46 IST 2020:Choice selected in Dictionary menu edit....2
+Mon Jun 01 12:34:48 IST 2020:Choice entered in edit menu=1 remove entire word
+Mon Jun 01 12:35:02 IST 2020:Choice entered in edit menu=2 edit individual info..
+Mon Jun 01 12:35:15 IST 2020:change Meaning
+Mon Jun 01 12:35:34 IST 2020:choice entered 1
+Mon Jun 01 12:35:39 IST 2020:choice entered 2
+Mon Jun 01 12:35:41 IST 2020:choice entered 3
+Mon Jun 01 12:35:43 IST 2020:choice entered 4
+Mon Jun 01 12:59:18 IST 2020:.............Creating Dictionary................
+Mon Jun 01 12:59:18 IST 2020:choice entered 1
+Mon Jun 01 12:59:23 IST 2020:choice entered 1
+Mon Jun 01 12:59:23 IST 2020:...........Adding word...........
+Mon Jun 01 12:59:32 IST 2020:adding task Name: hnn Meaning :hnnj Example :hnnjk
+Mon Jun 01 12:59:32 IST 2020:Task Name: hnn Meaning :hnnj Example: hnnjk
+Mon Jun 01 13:04:49 IST 2020:.............Creating Dictionary................
+Mon Jun 01 13:04:49 IST 2020:choice entered 1
+Mon Jun 01 13:04:51 IST 2020:...........Adding word...........
+Mon Jun 01 13:04:51 IST 2020:choice entered 1
+Mon Jun 01 13:04:55 IST 2020:adding task Name: dlkv Meaning :dg Example :vs
+Mon Jun 01 13:04:55 IST 2020:Task Name: dlkv Meaning :dg Example: vs
+Mon Jun 01 13:20:58 IST 2020:.............Creating Dictionary................
+Mon Jun 01 13:20:58 IST 2020:choice entered 1
+Mon Jun 01 13:21:08 IST 2020:choice entered 1
+Mon Jun 01 13:21:36 IST 2020:choice entered 1
+Mon Jun 01 13:21:36 IST 2020:.............Creating Dictionary................
+Mon Jun 01 13:21:39 IST 2020:choice entered 1
+Mon Jun 01 13:21:39 IST 2020:...........Adding word...........
+Mon Jun 01 13:21:42 IST 2020:adding task Name: dkfja Meaning :skdaja Example :ksdfjds
+Mon Jun 01 13:21:42 IST 2020:Task Name: dkfja Meaning :skdaja Example: ksdfjds
+Mon Jun 01 13:21:47 IST 2020:choice entered 1
+Mon Jun 01 13:21:47 IST 2020:...........Adding word...........
+Mon Jun 01 13:21:50 IST 2020:adding task Name: skv Meaning :sd Example :sdf
+Mon Jun 01 13:21:50 IST 2020:Task Name: skv Meaning :sd Example: sdf
+Mon Jun 01 13:21:54 IST 2020:...........Adding word...........
+Mon Jun 01 13:21:54 IST 2020:choice entered 1
+Mon Jun 01 13:21:57 IST 2020:adding task Name: lskv Meaning :sdlv Example :kdvj
+Mon Jun 01 13:21:57 IST 2020:Task Name: lskv Meaning :sdlv Example: kdvj
+Mon Jun 01 13:28:56 IST 2020:choice entered 1
+Mon Jun 01 13:28:56 IST 2020:.............Creating Dictionary................
+Mon Jun 01 13:28:59 IST 2020:choice entered 1
+Mon Jun 01 13:28:59 IST 2020:...........Adding word...........
+Mon Jun 01 13:29:03 IST 2020:adding task Name: sf Meaning :sf Example :sf
+Mon Jun 01 13:29:03 IST 2020:Task Name: sf Meaning :sf Example: sf
+Mon Jun 01 13:29:05 IST 2020:Choice selected in Dictionary menu edit....2
+Mon Jun 01 13:29:08 IST 2020:Choice entered in edit menu=1 remove entire word
+Mon Jun 01 13:30:10 IST 2020:choice entered 1
+Mon Jun 01 13:30:10 IST 2020:.............Creating Dictionary................
+Mon Jun 01 13:30:14 IST 2020:choice entered 1
+Mon Jun 01 13:30:14 IST 2020:...........Adding word...........
+Mon Jun 01 13:30:18 IST 2020:adding task Name: dg Meaning :fh Example :df
+Mon Jun 01 13:30:18 IST 2020:Task Name: dg Meaning :fh Example: df
+Mon Jun 01 13:30:34 IST 2020:.............Creating Dictionary................
+Mon Jun 01 13:30:34 IST 2020:choice entered 1
+Mon Jun 01 13:30:42 IST 2020:...........Adding word...........
+Mon Jun 01 13:30:42 IST 2020:choice entered 1
+Mon Jun 01 13:30:56 IST 2020:adding task Name: megha Meaning :moda Example :cloud,moda
+Mon Jun 01 13:30:56 IST 2020:Task Name: megha Meaning :moda Example: cloud,moda
+Mon Jun 01 13:31:07 IST 2020:choice entered 1
+Mon Jun 01 13:31:09 IST 2020:choice entered 2
+Mon Jun 01 13:31:11 IST 2020:choice entered 3
+Mon Jun 01 13:31:14 IST 2020:choice entered 4
+Mon Jun 01 13:31:39 IST 2020:choice entered 1
+Mon Jun 01 13:31:39 IST 2020:.............Creating Dictionary................
+Mon Jun 01 13:32:00 IST 2020:choice entered 1
+Mon Jun 01 13:32:00 IST 2020:.............Creating Dictionary................
+Mon Jun 01 13:32:17 IST 2020:.............Creating Dictionary................
+Mon Jun 01 13:32:17 IST 2020:choice entered 1
+Mon Jun 01 13:32:37 IST 2020:choice entered 1
+Mon Jun 01 13:32:37 IST 2020:...........Adding word...........
+Mon Jun 01 13:33:15 IST 2020:adding task Name: mobile Meaning :communication Example :thinkpad
+Mon Jun 01 13:33:15 IST 2020:Task Name: mobile Meaning :communication Example: thinkpad
+Mon Jun 01 13:33:18 IST 2020:Choice selected in Dictionary menu edit....2
+Mon Jun 01 13:33:20 IST 2020:Choice entered in edit menu=1 remove entire word
+Mon Jun 01 13:34:05 IST 2020:choice entered 4
+Mon Jun 01 13:34:09 IST 2020:choice entered 1
+Mon Jun 01 13:34:09 IST 2020:...........Adding word...........
+Mon Jun 01 13:35:04 IST 2020:adding task Name: meghuu Meaning :fg Example :fg,fgh
+Mon Jun 01 13:35:04 IST 2020:Task Name: meghuu Meaning :fg Example: fg,fgh
+Mon Jun 01 13:35:16 IST 2020:choice entered 4
+Mon Jun 01 13:35:18 IST 2020:choice entered 1
+Mon Jun 01 13:35:18 IST 2020:...........Adding word...........
+Mon Jun 01 13:35:24 IST 2020:adding task Name: hjfds Meaning :dsjf Example :dsf
+Mon Jun 01 13:35:24 IST 2020:Task Name: hjfds Meaning :dsjf Example: dsf
+Mon Jun 01 13:35:32 IST 2020:choice entered 4
+Mon Jun 01 13:35:33 IST 2020:choice entered 1
+Mon Jun 01 13:35:33 IST 2020:...........Adding word...........
+Mon Jun 01 13:35:37 IST 2020:adding task Name: jdfds Meaning :ujg Example :jsdg
+Mon Jun 01 13:35:37 IST 2020:Task Name: jdfds Meaning :ujg Example: jsdg
+Mon Jun 01 13:35:47 IST 2020:choice entered 1
+Mon Jun 01 13:35:54 IST 2020:choice entered 2
+Mon Jun 01 13:36:12 IST 2020:choice entered 3
+Mon Jun 01 13:36:22 IST 2020:choice entered 4
+Mon Jun 01 13:37:08 IST 2020:choice entered 1
+Mon Jun 01 13:37:08 IST 2020:.............Creating Dictionary................
+Mon Jun 01 13:37:12 IST 2020:...........Adding word...........
+Mon Jun 01 13:37:12 IST 2020:choice entered 1
+Mon Jun 01 13:37:17 IST 2020:adding task Name: kdga Meaning :ksja Example :sf
+Mon Jun 01 13:37:17 IST 2020:Task Name: kdga Meaning :ksja Example: sf
+Mon Jun 01 13:42:22 IST 2020:choice entered 1
+Mon Jun 01 13:42:22 IST 2020:.............Creating Dictionary................
+Mon Jun 01 13:42:25 IST 2020:...........Adding word...........
+Mon Jun 01 13:42:25 IST 2020:choice entered 1
+Mon Jun 01 13:42:28 IST 2020:adding task Name: sfa Meaning :asjfsa Example :safjlksaf
+Mon Jun 01 13:42:28 IST 2020:Task Name: sfa Meaning :asjfsa Example: safjlksaf
+Mon Jun 01 13:44:05 IST 2020:.............Creating Dictionary................
+Mon Jun 01 13:44:05 IST 2020:choice entered 1
+Mon Jun 01 13:44:07 IST 2020:...........Adding word...........
+Mon Jun 01 13:44:07 IST 2020:choice entered 1
+Mon Jun 01 13:44:10 IST 2020:adding task Name: fjs Meaning :akda Example :hfla
+Mon Jun 01 13:44:10 IST 2020:Task Name: fjs Meaning :akda Example: hfla
+Mon Jun 01 16:23:16 IST 2020:.............Creating Dictionary................
+Mon Jun 01 16:23:16 IST 2020:choice entered 1
+Mon Jun 01 16:23:19 IST 2020:choice entered 1
+Mon Jun 01 16:23:19 IST 2020:...........Adding word...........
+Mon Jun 01 16:24:04 IST 2020:adding task Name: s Meaning :kdfja Example :ldkga
+Mon Jun 01 16:24:04 IST 2020:Task Name: s Meaning :kdfja Example: ldkga
+Mon Jun 01 16:42:37 IST 2020:choice entered 1
+Mon Jun 01 16:42:37 IST 2020:.............Creating Dictionary................
+Mon Jun 01 16:42:39 IST 2020:choice entered 1
+Mon Jun 01 16:42:39 IST 2020:...........Adding word...........
+Mon Jun 01 16:42:55 IST 2020:adding task Name: ldg Meaning :fgh Example :sg
+Mon Jun 01 16:42:55 IST 2020:Task Name: ldg Meaning :fgh Example: sg
+Mon Jun 01 16:59:02 IST 2020:.............Creating Dictionary................
+Mon Jun 01 16:59:02 IST 2020:choice entered 1
+Mon Jun 01 16:59:05 IST 2020:...........Adding word...........
+Mon Jun 01 16:59:05 IST 2020:choice entered 1
+Mon Jun 01 16:59:21 IST 2020:adding task Name: dsklf Meaning :lskfsa Example :slkfja
+Mon Jun 01 16:59:21 IST 2020:Task Name: dsklf Meaning :lskfsa Example: slkfja
+Mon Jun 01 16:59:23 IST 2020:Choice selected in Dictionary menu edit....2
+Mon Jun 01 16:59:26 IST 2020:Choice entered in edit menu=2 edit individual info..
+Mon Jun 01 16:59:52 IST 2020:choice entered 1
+Mon Jun 01 16:59:52 IST 2020:...........Adding word...........
+Mon Jun 01 17:00:05 IST 2020:adding task Name: sldks Meaning :lsdg Example :jsldfjs
+Mon Jun 01 17:00:05 IST 2020:Task Name: sldks Meaning :lsdg Example: jsldfjs
+Mon Jun 01 17:00:16 IST 2020:choice entered 4
+Mon Jun 01 17:00:25 IST 2020:.............Creating category................
+Mon Jun 01 17:00:25 IST 2020:choice entered 2
+Mon Jun 01 17:02:18 IST 2020:choice entered 1
+Mon Jun 01 17:02:18 IST 2020:.............Creating Dictionary................
+Mon Jun 01 17:02:21 IST 2020:choice entered 1
+Mon Jun 01 17:02:21 IST 2020:...........Adding word...........
+Mon Jun 01 17:02:30 IST 2020:adding task Name: as Meaning :ad Example :asd
+Mon Jun 01 17:02:30 IST 2020:Task Name: as Meaning :ad Example: asd
+Mon Jun 01 17:02:33 IST 2020:...........Adding word...........
+Mon Jun 01 17:02:33 IST 2020:choice entered 1
+Mon Jun 01 17:02:42 IST 2020:adding task Name: ddd Meaning :sd Example :ad
+Mon Jun 01 17:02:42 IST 2020:Task Name: ddd Meaning :sd Example: ad
+Mon Jun 01 17:02:53 IST 2020:choice entered 1
+Mon Jun 01 17:03:01 IST 2020:choice entered 2
+Mon Jun 01 17:03:08 IST 2020:choice entered 3
+Mon Jun 01 17:10:41 IST 2020:.............Creating Dictionary................
+Mon Jun 01 17:10:41 IST 2020:choice entered 1
+Mon Jun 01 17:10:43 IST 2020:choice entered 1
+Mon Jun 01 17:10:43 IST 2020:...........Adding word...........
+Mon Jun 01 17:10:52 IST 2020:adding task Name: lkkfa Meaning :kf Example :alf
+Mon Jun 01 17:10:52 IST 2020:Task Name: lkkfa Meaning :kf Example: alf
+Mon Jun 01 17:11:47 IST 2020:...........Adding word...........
+Mon Jun 01 17:11:47 IST 2020:choice entered 1
+Mon Jun 01 17:11:56 IST 2020:adding task Name: lfadf Meaning :slhfg Example :al
+Mon Jun 01 17:11:56 IST 2020:Task Name: lfadf Meaning :slhfg Example: al
+Mon Jun 01 17:12:40 IST 2020:choice entered 1
+Mon Jun 01 17:12:40 IST 2020:.............Creating Dictionary................
+Mon Jun 01 17:12:42 IST 2020:choice entered 1
+Mon Jun 01 17:12:42 IST 2020:...........Adding word...........
+Mon Jun 01 17:12:50 IST 2020:adding task Name: nxlv Meaning :kjds Example :dlf
+Mon Jun 01 17:12:50 IST 2020:Task Name: nxlv Meaning :kjds Example: dlf
+Mon Jun 01 18:44:54 IST 2020:.............Creating Dictionary................
+Mon Jun 01 18:44:54 IST 2020:choice entered 1
+Mon Jun 01 18:49:14 IST 2020:choice entered 1
+Mon Jun 01 18:49:19 IST 2020:choice entered 4
+Mon Jun 01 18:49:25 IST 2020:.............Creating Dictionary................
+Mon Jun 01 18:49:25 IST 2020:choice entered 1
+Mon Jun 01 18:49:48 IST 2020:.............Creating Dictionary................
+Mon Jun 01 18:49:48 IST 2020:choice entered 1
+Mon Jun 01 18:50:06 IST 2020:.............Creating Dictionary................
+Mon Jun 01 18:50:06 IST 2020:choice entered 1
+Mon Jun 01 18:50:25 IST 2020:choice entered 1
+Mon Jun 01 18:50:25 IST 2020:.............Creating Dictionary................
+Mon Jun 01 18:50:36 IST 2020:choice entered 1
+Mon Jun 01 18:50:36 IST 2020:...........Adding word...........
+Mon Jun 01 18:55:58 IST 2020:adding task Name: go Meaning :going Example :coming
+Mon Jun 01 18:55:58 IST 2020:Task Name: go Meaning :going Example: coming
+Fri Jun 26 07:18:29 IST 2020:choice entered 1
+Fri Jun 26 07:18:29 IST 2020:.............Creating Dictionary................
+Fri Jun 26 07:18:55 IST 2020:choice entered 1
+Fri Jun 26 07:18:55 IST 2020:...........Adding word...........
+Fri Jun 26 07:19:52 IST 2020:adding task Name: manvitha Meaning :knowledge Example :buddi,
+Fri Jun 26 07:19:52 IST 2020:Task Name: manvitha Meaning :knowledge Example: buddi,
+Fri Jun 26 07:20:08 IST 2020:choice entered 4
